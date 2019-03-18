@@ -1,0 +1,89 @@
+body{
+    background-color: #8adbe4;
+    font-family: 'Roboto Slab', 'Roboto', sans-serif;
+}
+header{
+    margin: auto;
+    width: 100%;
+    max-width: 1000px;
+    height: auto;
+    margin-top: 25px;
+}
+header img{
+    width: 70%;
+    height: auto;
+    max-width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+}
+.img2{
+    width: 40%;
+    height: auto;
+}
+article{
+    font-size: 20px;
+    width: 40%;
+    margin: auto;
+    background-color: #65bb4d;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+.sub{
+    margin-bottom: 50px;
+}
+.corpo{
+    margin: auto;
+    width: 80%;
+    margin: auto;
+}
+.imagem-link{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px 30px;
+    margin-bottom: -3px;
+}
+.imagem-link img{
+    width: 100%;
+    height: auto;
+    max-width: 175px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#imagens{
+    text-align:center;
+    width: 100%;
+    height: auto;
+}
+#mc_embed_signup{
+    clear:left;
+    width:100%;
+}
+input{
+    border-color: none;
+}
+input::placeholder{    
+    font-family: 'Roboto Slab', 'Roboto', sans-serif;
+}
+input::value{    
+    font-family: 'Roboto Slab', 'Roboto', sans-serif;
+}
+footer{
+    border-top: 2px solid #fff;
+    padding-top: 30px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+footer img{    
+    width: 2em;
+    padding-left: 20px;
+    height: auto;
+    max-width: 174px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
